@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/PresciptionServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/web/doctor_appointment.jsp</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/DoctorListServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/dal/DBContext.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/UpdateMedicalRecordServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/DeleteMedicalRecordServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/web/addAppointmentAdmin.jsp</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/DoctorAppointmentServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/PatientAppointmentServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/SignupServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/web/patients_appointments.jsp</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/UpdatePatientServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/ManageAppointmentServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/AddAppointmentServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/web/doctor_information.jsp</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/DoctorAddServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/web/doctorList.jsp</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/AddMedicalRecordServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/DoctorDetailServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/src/java/controller/PatientsAddServlet.java</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/web/add_appointment.jsp</file>
+            <file>file:/C:/PRJ301/HospitalManagement/HospitalManagement/HospitalManagement/web/manage_appointments.jsp</file>
+        </group>
+    </open-files>
+</project-private>
