@@ -18,35 +18,23 @@ public class Doctor {
     private String bio;
     private String role;
     private Users users;
-    private String phone;
 
     public Doctor() {
     }
 
-    public Doctor(int id, int userId, String fullname, String specialty, String degree, int experienceYears, String bio, String role, Users users, String phone) {
+    public Doctor(int id, int userId, String specialty, String degree, int experienceYears, String bio, String role, Users users) {
         this.id = id;
         this.userId = userId;
-        this.fullname = fullname;
         this.specialty = specialty;
         this.degree = degree;
         this.experienceYears = experienceYears;
         this.bio = bio;
         this.role = role;
         this.users = users;
-        this.phone = phone;
     }
 
-    
     public int getId() {
         return id;
-    }
-
-    public String getPhone() {
-        return phone;
-    }
-
-    public void setPhone(String phone) {
-        this.phone = phone;
     }
 
     public void setId(int id) {
